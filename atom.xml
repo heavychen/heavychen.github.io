@@ -6,7 +6,7 @@
   <link href="https://heavychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://heavychen.github.io/"/>
-  <updated>2022-02-13T04:17:46.663Z</updated>
+  <updated>2022-02-13T04:24:07.070Z</updated>
   <id>https://heavychen.github.io/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="https://heavychen.github.io/2022/02/13/post-name/"/>
     <id>https://heavychen.github.io/2022/02/13/post-name/</id>
     <published>2022-02-13T04:17:46.000Z</published>
-    <updated>2022-02-13T04:17:46.663Z</updated>
+    <updated>2022-02-13T04:24:07.070Z</updated>
     
+    <content type="html"><![CDATA[<p><img src="1.jpg" alt="alt"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;1.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+</summary>
+      
     
     
     
@@ -55,9 +63,9 @@
     <link href="https://heavychen.github.io/2022/01/13/hello-world/"/>
     <id>https://heavychen.github.io/2022/01/13/hello-world/</id>
     <published>2022-01-13T14:30:11.314Z</published>
-    <updated>2022-02-13T04:12:04.209Z</updated>
+    <updated>2022-02-13T04:30:24.402Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>你好[ddfsdf]sdfasdfasdfasdf</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>你好[ddfsdf]sdfasdfasdfasdf</p><p><img src="1.jpg" alt="alt"></p>]]></content>
     
     
       
