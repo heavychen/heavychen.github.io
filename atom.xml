@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>陈海伟博客</title>
+  <title>黄昏的橘猫</title>
   
   
   <link href="https://heavychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://heavychen.github.io/"/>
-  <updated>2022-03-27T12:24:44.304Z</updated>
+  <updated>2022-04-05T13:19:53.790Z</updated>
   <id>https://heavychen.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>heavychen</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>得奖作品</title>
+    <title>这些年得过的奖项</title>
     <link href="https://heavychen.github.io/2022/02/22/hello-world/"/>
     <id>https://heavychen.github.io/2022/02/22/hello-world/</id>
     <published>2022-02-22T10:17:14.000Z</published>
-    <updated>2022-03-27T12:24:44.304Z</updated>
+    <updated>2022-04-05T13:19:53.790Z</updated>
     
-    <content type="html"><![CDATA[<p>这些年得过的奖项<br><br>·2016年，《什么什么》荣获浙江省新闻界二等奖 <br><br>·2010年，</p><p><img src="/2022/02/22/hello-world/1.jpg" alt="alt"></p><p><img src="/2022/02/22/hello-world/2.jpg" alt="alt"></p><p><img src="/2022/02/22/hello-world/3.jpg" alt="alt"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/02/22/hello-world/1.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/2.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/3.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/4.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/5.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/6.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/7.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/8.jpg" alt="alt"><br><img src="/2022/02/22/hello-world/9.jpg" alt="alt"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这些年得过的奖项&lt;br&gt;&lt;br&gt;·2016年，《什么什么》荣获浙江省新闻界二等奖 &lt;br&gt;&lt;br&gt;·2010年，&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2022/02/22/hello-world/1.jpg&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/202</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/02/22/hello-world/1.jpg&quot; alt=&quot;alt&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2022/02/22/hello-world/2.jpg&quot; alt=&quot;alt&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2022/02/22/hello</summary>
       
     
     
@@ -39,11 +37,11 @@
   </entry>
   
   <entry>
-    <title>post_name</title>
+    <title>视觉作品</title>
     <link href="https://heavychen.github.io/2022/02/13/post-name/"/>
     <id>https://heavychen.github.io/2022/02/13/post-name/</id>
     <published>2022-02-13T04:17:46.000Z</published>
-    <updated>2022-02-22T10:17:53.848Z</updated>
+    <updated>2022-03-27T12:46:12.901Z</updated>
     
     <content type="html"><![CDATA[<p>wozhelishiwenjian<br><img src="/2022/02/13/post-name/1.jpg" alt="alt"></p>]]></content>
     
